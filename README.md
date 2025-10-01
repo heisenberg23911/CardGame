@@ -32,15 +32,39 @@ A turn-based card game implementation built with Love2D. Features a playable gam
 - Basic knowledge of Lua programming
 
 ### Running the Game
-1. Clone or download this repository
-2. Install Love2D from https://love2d.org/
-3. Run the game:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Cod-e-Codes/CardGame.git
+   cd CardGame
+   ```
+
+2. **Install Love2D:**
+   - Download from https://love2d.org/
+   - **Windows**: Add Love2D to your PATH, or use full path to executable
+   - **Linux**: Install via package manager or add to PATH
+
+3. **Run the game:**
+   
+   **If Love2D is in PATH:**
    ```bash
    love .
    ```
-   Or drag the project folder onto the Love2D executable
+   
+   **If Love2D is not in PATH (Windows):**
+   ```bash
+   "C:\Program Files\LOVE\love.exe" .
+   ```
+   
+   **If Love2D is not in PATH (Linux):**
+   ```bash
+   /usr/bin/love .
+   # or wherever you installed Love2D
+   ```
+   
+   **Alternative**: Drag the CardGame folder onto the Love2D executable
 
-4. Run tests:
+4. **Run tests:**
    ```bash
    love . --test
    ```
